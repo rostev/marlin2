@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c68f86c5-54ee-4e46-a62b-16d361e0a28d" name="marlin.loc" url="http://marlin.loc">
+        <fileTransfer rootFolder="/home/rostev/projects/marlin.loc" accessType="SFTP" host="192.168.2.20" port="22" sshConfigId="ac343423-fc84-48c3-947c-74d03139c7e2" sshConfig="rostev@192.168.2.20:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
